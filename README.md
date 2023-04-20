@@ -6,14 +6,21 @@
   </div>
   <hr>
   Hello, GitHub World!
-</hi1>
+</h1>
 <nr>
 
+I am a recent graudate of Hack Reactor's SEI (advanced software engineering immersive) course, 
+  and a current SEIR (software engineering immersive resident). 
+As you might notice, my daily activity on gitHub has dropped a bit during my SEIR role 
+  since my routine is currently focused on providing support for SEI students. 
+However, I intend to ramp up my personal projects and refactoring of previous projects in the near future. 
+Feel free to look through my public repos anytime.
+  
 ## I'm Currently working on...
 <ul>
-  <li> 🎓 Graduating from Hack Reactor SEI (03/17/2023)</li>
-  <li> 🖥️ Preparing for a SEIRship role with Hack Reactor</li>
-  <li> 🚧 Designing a slick little personal Readme</li>
+  <li> 💡 Mentoring SEI students as one of Hack Reactor's SEIRs</li>
+  <li> 🤔 Personal Project Ideation</li>
+  <li> 🖥️ Daily LeetCode practice</li>
 </ul>
 <hr>
 
