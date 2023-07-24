@@ -9,23 +9,18 @@
 </h1>
 <nr>
 
-I am a recent graudate of Hack Reactor's SEI (advanced software engineering immersive) course, 
-  and a current SEIR (software engineering immersive resident). 
-As you might notice, my daily activity on gitHub has dropped a bit during my SEIR role 
-  since my routine is currently focused on providing support for SEI students. 
-However, I intend to ramp up my personal projects and refactoring of previous projects in the near future. 
-Feel free to look through my public repos anytime.
+I am a graudate of Hack Reactor's SEI (advanced software engineering immersive) course, 
+  and fomerly an Orchestra Teacher of twelve years. This introductory README is not the most impressive
+  one you will ever see, as I am spending my days coding, applying for jobs, and keeping up with my family.
   
 ## I'm Currently working on...
 <ul>
-  <li> 💡 Mentoring SEI students as one of Hack Reactor's SEIRs</li>
-  <li> 🤔 Personal Project Ideation</li>
-  <li> 🖥️ Daily LeetCode practice</li>
+  <li> Primary Personal Project: <a href=https://github.com/tjspitz/lunatime>Lunatime</a></li>
+  <li> Secondary Personal Project: <a href=https://github.com/tjspitz/swapiverse>Swapiverse</a></li>
 </ul>
 <hr>
 
-In the meantime, you can find me on [LinkedIn](https://www.linkedin.com/in/mrspitz/).<br>
-At any rate, stay tuned...
+You can also find me on [LinkedIn](https://www.linkedin.com/in/mrspitz/), which is slightly more impressive-looking than this README.<br>
 
 <!--
 **tjspitz/tjspitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
