@@ -9,14 +9,14 @@
 </h1>
 <nr>
 
-I am a graudate of Hack Reactor's SEI (advanced software engineering immersive) course, 
+I am a full-stack SWE intern with MARS Solutions Group, a graudate of Hack Reactor's SEI (advanced software engineering immersive) course, 
   and fomerly an Orchestra Teacher of twelve years. This introductory README is not the most impressive
-  one you will ever see, as I am spending my days coding, applying for jobs, and keeping up with my family.
+  one you will ever see, as I am spending my days coding, applying for jobs, learning additional techs, and keeping up with my family.
   
 ## I'm Currently working on...
 <ul>
-  <li> Primary Personal Project: <a href=https://github.com/tjspitz/lunatime>Lunatime</a></li>
-  <li> Secondary Personal Project: <a href=https://github.com/tjspitz/swapiverse>Swapiverse</a></li>
+  <li>MARS Full-Stack Project: <a href=https://github.com/tjspitz/MARS/tree/main/elp>E-Learning Platform</a></li>
+  <li> Primary Personal Project: <a href=https://github.com/tjspitz/lunatime/tree/main/lunatime>Lunatime</a></li>
 </ul>
 <hr>
 
